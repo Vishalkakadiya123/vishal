@@ -1,0 +1,35 @@
+
+
+.main_card{
+  border-radius: 10px;
+  background-color: #3C3E44;
+}
+
+img{
+  width: 220px;
+  height: 220px;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.info_card{
+  margin-left: 20px;
+  color: white;
+}
+
+.first > a{
+  text-decoration: none;
+  color: white;
+}
+
+.first > a:hover,
+.second > a:hover,
+.third > a:hover{
+color: #FF9800;
+}
+
+.second > a,
+.third > a{
+  text-decoration: none;
+  color: #9E9E9E;
+}
